@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>Z_CLAS_XXX</CLSNAME>
+    <CLSNAME>Z_CLAS_02</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>NEW CLAS</DESCRIPT>
+    <DESCRIPT>SEGUNDA CLASE</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
